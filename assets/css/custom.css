@@ -6,5 +6,13 @@
 -----------------------------------------------------------------*/
 
 .client-list{
-  color:red !important;
+  padding-left:200px;
+}
+
+.center {
+  text-align: center !important;
+}
+
+.small-padding{
+  padding-top:20px !important;
 }
