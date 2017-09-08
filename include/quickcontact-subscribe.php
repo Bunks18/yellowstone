@@ -8,7 +8,7 @@ $listId = '69350e983d'; // Your MailChimp List ID
 $toemails = array();
 
 $toemails[] = array(
-				'email' => 'username@website.com', // Your Email Address
+				'email' => 'wbunker11@gmail.com', // Your Email Address
 				'name' => 'Your Name' // Your Name
 			);
 
