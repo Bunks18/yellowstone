@@ -6585,7 +6585,7 @@ aside.left form .form-input span.form-button {
 /*-------------------------------------------------*/
 /* =  12.Contact Form
 /*-------------------------------------------------*/
-#contact-form .form-field, #search-form .form-field {
+#contactForm .form-field, #search-form .form-field {
   outline: inherit;
   border: none;
   border-radius: 2px;
