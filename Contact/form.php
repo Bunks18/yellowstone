@@ -12,6 +12,7 @@
 <?php
 if ($_POST['submit']) {
     if (mail ($to, $subject, $body, $from)) { 
+        header('location:http://tailoredtravels.co/contact-1.html');
         echo '<p>Thank you for your email!</p>';
     } else { 
         echo '<p>Oops! An error occurred. Try sending your message again.</p>'; 
